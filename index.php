@@ -50,6 +50,49 @@
 
     </div>
 </section>
+
+<section class="search-courses">
+    <div id="shortCourse"></div>
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="search-courses-content" >
+            <div class="search-courses-left">
+                <h1 class="white-text" >
+                    "Join our Short Course Program"
+                    <br>
+                </h1>
+                <p class="white-text" >
+                    "To be able to take full advantage of the opportunities available to this technology driven era, 
+                    it is important to acquire new skills. 
+                    Skills in ICT that will springboard your career"
+                </p>
+                <div class="details-content" >
+                    <div class="single-details">
+                        <span class=""></span>
+                        <h4>Expert Instructors</h4>
+                        <p>
+                        "Our instructors have years of industry
+                         experience which presents students with
+                          a unique opportunity of learning
+                           from the best"
+                        </p>
+                    </div>
+                    <div class="single-details">
+                        <span class=""></span>
+                        <h4>Certification</h4>
+                        <p>
+                        "You earn a certificate of completion
+                         from the department after completing
+                          and passing the prescribed exam"
+                        </p>
+                    </div>
+                </div>
+                <a class="generic-button" href="github.com">Register</a>
+            </div>
+        </div>
+    </div>
+
+</section>
 </body>
 
 </html>
