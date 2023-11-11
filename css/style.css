@@ -41,3 +41,36 @@
     position: relative;
 }
 
+.sect-gap{
+    padding-top: 50px;
+    padding-right: 0;
+    padding-left: 0px;
+}
+
+.events-area{
+    display: flex;
+    justify-content: center;
+}
+
+.events-area-container{
+    display: flex;
+    flex-direction: row;
+    width: 65%;
+    align-self: center;
+}
+
+.events-area .events-area-container .events-menu-content .title{
+    padding-left: 15px;
+}
+
+.popular-courses-section-align{
+    justify-content: center;
+}
+
+.popular-courses-menu-content{
+    padding-bottom: 40px;
+}
+
+.popular-courses-section-align .popular-courses-menu-content .title{
+    text-align: center;
+}
