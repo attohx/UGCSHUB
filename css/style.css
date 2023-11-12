@@ -74,3 +74,28 @@
 .popular-courses-section-align .popular-courses-menu-content .title{
     text-align: center;
 }
+
+.site-footer {
+    background-color: #fefeff;
+    padding: 22.2px 0 10px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #737373;
+    border-radius: 6px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+}
+.site-footer {
+    height: 50px;
+    margin-top: 2px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(233, 224, 224);
+    color: white;
+}
+.site-footer .footer-menu{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
