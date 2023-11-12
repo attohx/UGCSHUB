@@ -9,12 +9,17 @@
 </head>
 
 <body>
+
+
 <?php
     @include "include/navbar.php";
-?> 
+?>
+
+<div class="main-container">
+
 
 <section class="bannerbg">
-    <div class="overlay-bg>
+    <div class="overlay-bg">
         <div class="video-box"></div>
     </div>
 </section>
@@ -93,6 +98,8 @@
     </div>
 
 </section>
+
+</div>
 
 <?php
     @include "include/footer.php";

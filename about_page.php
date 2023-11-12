@@ -13,6 +13,8 @@
     @include "include/navbar.php";
 ?> 
 
+<div class="main-container">
+</div>
 
 <?php
     @include "include/footer.php";

@@ -1,12 +1,12 @@
 <!--css file-->
 <link rel="stylesheet" href="css/style.css">
 
-<div class="head-top></div>
+<nav class="head-top">
 
 <div id="header">
     <div class="container"></div>
     <div class= "main-menu">
-        <div class="menu-align"
+        <div class="menu-align">
             <div id="logomen">
                 <a href="">Logo</a>
             </div>
