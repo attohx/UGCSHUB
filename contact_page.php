@@ -13,6 +13,7 @@
     @include "include/navbar.php";
 ?> 
 <div class="main-container">
+    <h1>Put Contact Form inside the main container div class </h1>
 </div>
 
 <?php
