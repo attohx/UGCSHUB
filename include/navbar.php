@@ -1,5 +1,6 @@
 <!--css file-->
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 
 <nav class="head-top">
 

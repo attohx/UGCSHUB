@@ -7,6 +7,9 @@
     <!--css file-->
     <link rel="stylesheet" href="css/style.css">
 </head>
+<?php
+    @include "include/headie.php";
+?>
 
 <body>
 <?php

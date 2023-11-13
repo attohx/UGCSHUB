@@ -9,9 +9,9 @@
 }
 
 .container{
-    width: 100%;
-    padding-right: 10px;
-    padding: left 10px;
+    width: auto;
+    padding-right: 5px;
+    padding: left 5px;
 }
 
 .menu-align{
