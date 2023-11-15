@@ -9,3 +9,4 @@
 <title>DCIT Home Page</title>
 <!--css file-->
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
